@@ -1,0 +1,16 @@
+# Various file formats
+*.sketch
+*.xd
+*.fig
+*.bak
+*.original
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+
+# Avoid the annoying folders
+node_modules/
+dist/
+design/
+public/
+
