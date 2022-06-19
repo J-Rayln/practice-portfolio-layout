@@ -14,3 +14,6 @@ https://xd.adobe.com/spec/6ebfeb86-6eeb-4b69-77dc-ecf4c4506bcc-188e/flow/
 - SASS
 - JavaScript
 - Working with Gulp
+
+### Resources I Used
+- Chris Ferdinandi's [gulp-boilerplate](https://github.com/cferdinandi/gulp-boilerplate)
